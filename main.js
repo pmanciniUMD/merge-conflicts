@@ -1,5 +1,6 @@
 
 
-var num = 50;
+var num = 75;
 
-var truth = "Hello World";
+var truth = "Goodbye World";
+
